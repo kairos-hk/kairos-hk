@@ -6,7 +6,6 @@
   
 <h3 align="center">ㅤ</h3>
 <h3 align="center">ㅤ</h3>
-<h3 align="center">ㅤ</h3>
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
 
@@ -30,7 +29,7 @@
 
 
 
-
+<h3 align="center">ㅤ</h3>
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
   <a href="https://kalilinux.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blog&logoColor=white&link=https://kalilinux.tistory.com"/></a>&nbsp
@@ -41,10 +40,11 @@
 <br>
 
 
-
+<h3 align="center">ㅤ</h3>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaliinuxbloger&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kalilinuxbloger)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">ㅤ</h3>
 ![kalilinuxbloger's github stats](https://github-readme-stats.vercel.app/api?username=kalilinuxbloger&show_icons=true)
 
 
