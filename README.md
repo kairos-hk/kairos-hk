@@ -36,10 +36,11 @@
 
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaliinuxbloger&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kalilinuxbloger)](https://github.com/ryo-ma/github-profile-trophy)
-![kaliinuxbloger's github stats](https://github-readme-stats.vercel.app/api?username=kaliinuxbloger&show_icons=true)
-[![kaliinuxbloger's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliinuxblogerID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kaliinuxbloger)
+![kalilinuxbloger's github stats](https://github-readme-stats.vercel.app/api?username=kalilinuxbloger&show_icons=true)
+
 
 
 </div>
