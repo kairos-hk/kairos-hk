@@ -1,13 +1,19 @@
+
 <div align="center">
 <h2 align='center'> "Programming can change the world!" </p> 
 
+<h3 align='center'> "I am a high school student studying programming and security in Korea." </p>
+  
+<h3 align="center">ㅤ</h3>
+<h3 align="center">ㅤ</h3>
+<h3 align="center">ㅤ</h3>
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=#0FAAFF"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp</a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a></a>
   <br>
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
