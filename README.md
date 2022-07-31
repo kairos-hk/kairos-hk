@@ -1,5 +1,5 @@
 <div align="center">
-  
+<h2 align='center'> "Programming can change the world!" </p> 
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
@@ -27,9 +27,9 @@
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-  <a href="https://kalilinux.tistory.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=Blog&logoColor=white&link=https://kalilinux.tistory.com"/></a>&nbsp
+  <a href="https://kalilinux.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blog&logoColor=white&link=https://kalilinux.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/dong0_0912/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dong0_0912/"/></a>&nbsp
-  <a href="https://portfolio.kairos-hk.xyz"><img src="https://img.shields.io/badge/Proto.io-34A7C1?style=flat&logo=Portfolio&logoColor=white&link=https://portfolio.kairos-hk.xyz"/></a>&nbsp
+  <a href="https://portfolio.kairos-hk.xyz"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=Portfolio&logoColor=white&link=https://portfolio.kairos-hk.xyz"/></a>&nbsp
 </p>
 
 <br>
