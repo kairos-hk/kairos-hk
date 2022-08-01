@@ -1,9 +1,9 @@
 
-<div align="center">
 <h2 align='center'> "Programming can change the world!" </p> 
 
 <h3 align='center'> "I am a high school student studying programming and security in Korea." </p>
-  
+ 
+
  #### 🧑 Who I Am 
  - 🎒 **[Daegu Daewon High Schol](http://www.dw.hs.kr)** 
  - 📖 Studying programming, simulation hacking, electronic engineering, and communication engineering 
@@ -17,6 +17,7 @@
  - ⚡️ Circuit Design and Development Using Electronic Engineering 
   
 
+<div align="center">
  
 <h3 align="center">ㅤ</h3>
 <h3 align="center">🛠 Teck Stack 🛠</h3>
