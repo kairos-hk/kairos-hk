@@ -45,7 +45,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk)](https://github.com/ryo-ma/github-profile-trophy)
 
-![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true)
-
+![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true&theme=radical)
 
 </div>
