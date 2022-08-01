@@ -4,7 +4,20 @@
 
 <h3 align='center'> "I am a high school student studying programming and security in Korea." </p>
   
+ #### 🧑 Who I Am 
+ - 🎒 **[Daegu Daewon High Schol](http://www.dw.hs.kr)** 
+ - 📖 Studying programming, simulation hacking, electronic engineering, and communication engineering 
+ - 👕 A member of the "KRONOS" team
+ - 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
+ - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
+  
+ #### 💻 What Can I Do?
+ - 🔥 Development using Python or C
+ - ☁️ Cloud Computing or Server Operate
+ - ⚡️ Circuit Design and Development Using Electronic Engineering 
+  
 
+ 
 <h3 align="center">ㅤ</h3>
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
