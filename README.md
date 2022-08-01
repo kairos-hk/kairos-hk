@@ -15,7 +15,19 @@
  - 🔥 Development using Python or C
  - ☁️ Cloud Computing or Server Operate
  - ⚡️ Circuit Design and Development Using Electronic Engineering 
-  
+
+### 📚 Projects
+
+✅ = Finished Project
+⛏️ = Working on
+
+| Project Name      | Description   |  Developer(s)   |
+|:----------|:--------------|:----------------|
+| ✅ **AI Air Clearner** (2019)  | Development of Smart Artificial Intelligence Air Purifier Software and Prototype | Me |
+| ✅ **Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Society | Me |
+| ✅ **Hoe Coin Project** (2020~) | Development of blockchain virtual currency 'HOE COIN' using Ethereum ERC20 | Me |
+| ✅ **IOT Home Project** (2021) | Development of IOT Smart Home Deployment with Linux Server and Raspberry Pi | Me |
+| ⛏️ **WHK Helper Project** (2022~) | Development of a program that makes web hacking that can be run on Kalinux easier. And prove the performance of the program through simulated hacking. | Team (Nondisclosure) |
 
 <div align="center">
  
