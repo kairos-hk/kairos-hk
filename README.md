@@ -4,7 +4,7 @@
 
 <h3 align='center'> "I am a high school student studying programming and security in Korea." </p>
   
-<h3 align="center">ㅤ</h3>
+
 <h3 align="center">ㅤ</h3>
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
