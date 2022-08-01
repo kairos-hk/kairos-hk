@@ -47,5 +47,5 @@
 
 ![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kairos-hk=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
