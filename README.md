@@ -2,19 +2,26 @@
 <h2 align='center'> "Programming can change the world!" </p> 
 
 <h3 align='center'> "I am a high school student studying programming and security in Korea." </p>
- 
+<h3 align='center'> "프로그래밍과 보안을 공부하는 한국의 고등학생입니다." </p>
 
  #### 🧑 Who I Am 
  - 🎒 **[Daegu Daewon High Schol](http://www.dw.hs.kr)** 
- - 📖 Studying programming, simulation hacking, electronic engineering, and communication engineering 
+      **대구대원고등학교 재학중**
+ - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering 
+      **프로그래밍, 모의해킹, 전자공학, 통신공학을 공부중**
  - 👕 A member of the "KRONOS" team
+      **Kronos팀 소속중**
  - 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
+      **아마추어무선국 (6L5TNT) 운용중, 단체무선국 '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
  - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
-  
+      **한국 재난비상통신지원단(K.E.R.S) 소속중**
  #### 💻 What Can I Do?
  - 🔥 Development using Python or C
+      **주 개발은 파이썬과 C를 사용중**
  - ☁️ Cloud Computing or Server Operate
+      **클라우드 컴퓨팅, 또는 서버 제작,개발,운용중**
  - ⚡️ Circuit Design and Development Using Electronic Engineering 
+      **전자공학을 활용한 전자회로 설계 및 개발중**
 
 ### 📚 Projects
 
@@ -23,7 +30,8 @@
 
 | Project Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
-| ✅ **AI Air Clearner** (2019)  | Development of Smart Artificial Intelligence Air Purifier Software and Prototype | Me |
+| ✅ **AI Air Clearner** (2019)  | Development of Smart Artificial Intelligence Air Purifier Software and Prototype
+스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발| Me |
 | ✅ **Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Society | Me |
 | ✅ **Hoe Coin Project** (2020~) | Development of blockchain virtual currency 'HOE COIN' using Ethereum ERC20 | Me |
 | ✅ **IOT Home Project** (2021) | Development of IOT Smart Home Deployment with Linux Server and Raspberry Pi | Me |
