@@ -6,22 +6,22 @@
 
  #### 🧑 Who I Am 
  - 🎒 **[Daegu Daewon High Schol](http://www.dw.hs.kr)** 
-      **대구대원고등학교 재학중**
+      **ㅤㅤ대구대원고등학교 재학중**
  - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering 
-      **프로그래밍, 모의해킹, 전자공학, 통신공학을 공부중**
+      **ㅤㅤ프로그래밍, 모의해킹, 전자공학, 통신공학을 공부중**
  - 👕 A member of the "KRONOS" team
-      **Kronos팀 소속중**
+      **ㅤㅤKronos팀 소속중**
  - 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
-      **아마추어무선국 (6L5TNT) 운용중, 단체무선국 '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
+      **ㅤㅤ아마추어무선국 (6L5TNT) 운용중, 단체무선국 '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
  - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
-      **한국 재난비상통신지원단(K.E.R.S) 소속중**
+      **ㅤ한국 재난비상통신지원단(K.E.R.S) 소속중**
  #### 💻 What Can I Do?
  - 🔥 Development using Python or C
-      **주 개발은 파이썬과 C를 사용중**
+      **ㅤㅤ주 개발은 파이썬과 C를 사용중**
  - ☁️ Cloud Computing or Server Operate
-      **클라우드 컴퓨팅, 또는 서버 제작,개발,운용중**
+      **ㅤㅤ클라우드 컴퓨팅, 또는 서버 제작,개발,운용중**
  - ⚡️ Circuit Design and Development Using Electronic Engineering 
-      **전자공학을 활용한 전자회로 설계 및 개발중**
+      **ㅤㅤ전자공학을 활용한 전자회로 설계 및 개발중**
 
 ### 📚 Projects
 
@@ -30,12 +30,11 @@
 
 | Project Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
-| ✅ **AI Air Clearner** (2019)  | Development of Smart Artificial Intelligence Air Purifier Software and Prototype
-스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발| Me |
-| ✅ **Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Society | Me |
-| ✅ **Hoe Coin Project** (2020~) | Development of blockchain virtual currency 'HOE COIN' using Ethereum ERC20 | Me |
-| ✅ **IOT Home Project** (2021) | Development of IOT Smart Home Deployment with Linux Server and Raspberry Pi | Me |
-| ⛏️ **WHK Helper Project** (2022~) | Development of a program that makes web hacking that can be run on Kalinux easier. And prove the performance of the program through simulated hacking. | Team (Nondisclosure) |
+| ✅ **AI Air Clearner** (2019)  | Development of Smart Artificial Intelligence Air Purifier Software and Prototypeㅤㅤ스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발 | Me |
+| ✅ **Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Societyㅤㅤ연구회의 후원을 통한 기상관측기 설계 및 개발 | Me |
+| ✅ **Hoe Coin Project** (2020~) | Development of blockchain virtual currency 'HOE COIN' using Ethereum ERC20ㅤㅤ이더리움 ERC20기술을 활용한 블록체인 가상화폐 Hoe Coin 개발 | Me |
+| ✅ **IOT Home Project** (2021) | Development of IOT Smart Home Deployment with Linux Server and Raspberry Piㅤㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me |
+| ⛏️ **WHK Helper Project** (2022~) | Develop programs that can be run by Kalilinux by making web log analysis easy.ㅤㅤ모의해킹을 위한 칼리리눅스에서 구동이 가능한 Web 로그 분석 프로그램 개발 | Team (Nondisclosure) |
 
 <div align="center">
  
