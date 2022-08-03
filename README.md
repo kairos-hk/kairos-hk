@@ -1,6 +1,5 @@
 
-<h2 align='center'> "Programming can change the world!" </p>
-<h2 align='center'> "프로그래밍은 세상을 바꿀수 있습니다!"
+<h1 align='center'> "Programming can change the world!" </p>
 
 <h3 align='center'> I am a high school student studying programming and security in Korea. </p>
 <h3 align='center'> 프로그래밍과 보안을 공부하는 한국의 고등학생입니다. </p>
