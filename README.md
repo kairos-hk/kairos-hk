@@ -52,8 +52,8 @@
 | ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency   초단파를 활용한 전대륙 교신 성공 및 AWARD흭득                                                   | RSOW   |
 | ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide   전 세계 26개국과의 QSO기록 달성 및 AWARD 흭득                                                       | Me     |
 | ⛏️**Korea Code Fair** (2022~)                | Korea Code Fair (formerly Information Olympiad) has successfully advanced to the finals and is preparing for the finals..   한국코드페어 본선진출 및 준비중..      | KRONOS |
-|                                                       |                                                                                                                                                                      |        |
-|                                                       |                                                                                                                                                                      |        |
+
+
 
 `<div align="center">`
 
