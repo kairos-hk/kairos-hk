@@ -30,14 +30,14 @@
 ✅ = Finished Project
 ⛏️ = Working on
 
-| Project Name                                 | Description                                                                                                                                                   | Developer(s)         |
+| Project Name                              | Description                                                                                                                                                   | Developer(s)         |
 | :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
 | ✅**AI Air Clearner** (2019)           | Development of Smart Artificial Intelligence Air Purifier Software and Prototypeㅤ스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발              | Me                   |
 | ✅**Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Societyㅤ연구회의 후원을 통한 기상관측기 설계 및 개발                             | Me                   |
-| ✅**Hoe Coin Project** (2020~)         | Development of blockchain virtual currency 'HOE COIN' using Ethereum ERC20ㅤ이더리움 ERC20기술을 활용한 블록체인 가상화폐 Hoe Coin 개발                       | Me                   |
-| ✅**IOT Home Project** (2021)          | Development of IOT Smart Home Deployment with Linux Server and Raspberry Piㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me                   |
+| ✅(2020~)         |                   | Me                   |
+| ✅**IOT Home Project** (2021)          | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Piㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me                   |
 | ✅**Beach Info Service** (2022)         | Development of real-time beach safety information guidance system  실시간 해변 안전 정보 안내시스템 개발                                             | KRONOS               |
-| ⛏️**WHK Helper Project** (2022~)     | Develop programs that can be run by Kalilinux by making web log analysis easy.ㅤ모의해킹을 위한 칼리리눅스에서 구동이 가능한 Web 로그 분석 프로그램 개발      | Team (Nondisclosure) |
+|    |     | Team (Nondisclosure) |
 
 
 
