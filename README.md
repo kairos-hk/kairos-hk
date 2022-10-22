@@ -36,6 +36,7 @@
 | ✅**Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Societyㅤ연구회의 후원을 통한 기상관측기 설계 및 개발                             | Me                   |
 | ✅**IOT Home Project** (2021)          | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Piㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me                   |
 | ✅**Beach Info Service** (2022)         | Development of real-time beach safety information guidance system  실시간 해변 안전 정보 안내시스템 개발                                             | KRONOS               |
+| ✅**Flood Protection Vehicle Navigation** (2022)         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API  홍수 발생 데이터와 Tmap API를 결합한 홍수 방지 차량 네비게이션                            | KRONOS               |
 
 
 
@@ -50,7 +51,7 @@
 | ✅**Suseo Youth Maker Contest (2022)**         | After advancing to the finals, he won the Encouragement Award (Yonsei University, Korea I7 Representative Award)  최종본선 진출후 장려상 수상(연세대학교 I7단장상)) | KRONOS |
 | ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency   초단파를 활용한 전대륙 교신 성공 및 AWARD흭득                                                   | RSOW   |
 | ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide   전 세계 26개국과의 QSO기록 달성 및 AWARD 흭득                                                       | Me     |
-| ⛏️**Korea Code Fair** (2022~)                | Korea Code Fair (formerly Information Olympiad) has successfully advanced to the finals and is preparing for the finals..   한국코드페어 본선진출 및 준비중..      | KRONOS |
+| ⛏️**Korea Code Fair** (2022~)                | Korea Code Fair (formerly Information Olympiad) has successfully advanced to the finals and is preparing for the finals..   한국코드페어 본선 결과 대기중..      | KRONOS |
 
 
 
