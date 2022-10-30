@@ -5,14 +5,12 @@
 
 #### 🧑 Who I Am
 
-- 🎒 **[Daegu Daewon High Schol](http://www.dw.hs.kr)**
-  **ㅤ대구대원고등학교 재학중**
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
   **ㅤ프로그래밍, 모의해킹, 전자공학, 통신공학을 공부중**
 - 👕 A member of the "KRONOS" team
   **ㅤKronos팀 소속중**
 - 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
-  **ㅤ아마추어무선국 (6L5TNT) 운용중, 단체무선국 '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
+  **ㅤ아마추어무선국 (6L5TNT) 운용중, '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
 - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
   **ㅤ한국 재난비상통신지원단(K.E.R.S) 소속중**
 
@@ -48,9 +46,9 @@
 
 | Contest Name                                          | Awards                                                                                                                                                               | Team   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| ✅**Suseo Youth Maker Contest (2022)**         | After advancing to the finals, he won the Encouragement Award (Yonsei University, Korea I7 Representative Award)  최종본선 진출후 장려상 수상(연세대학교 I7단장상)) | KRONOS |
 | ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency   초단파를 활용한 전대륙 교신 성공 및 AWARD흭득                                                   | RSOW   |
 | ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide   전 세계 26개국과의 QSO기록 달성 및 AWARD 흭득                                                       | Me     |
+| ✅**Suseo Youth Maker Contest (2022)**         | After advancing to the finals, he won the Encouragement Award (Yonsei University, Korea I7 Representative Award)  최종본선 진출후 장려상 수상(연세대학교 I7단장상)) | KRONOS |
 | ⛏️**Korea Code Fair** (2022~)                | Korea Code Fair (formerly Information Olympiad) has successfully advanced to the finals and is preparing for the finals..   한국코드페어 본선 결과 대기중..      | KRONOS |
 
 
