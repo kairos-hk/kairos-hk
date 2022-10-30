@@ -93,5 +93,4 @@
 <a href="http://www.github.com/kairos-hk"><img src="https://activity-graph.herokuapp.com/graph?username=kairos-hk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongyoung0912)](https://solved.ac/dongyoung0912/)
 </div>
