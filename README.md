@@ -10,18 +10,15 @@
 - 👕 A member of the "KRONOS" team
   **ㅤKronos팀 소속중**
 - 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
-  **ㅤ아마추어무선국 (6L5TNT) 운용중, '한국직장아마추어무선연합' (D80ZR) 관리자로 활동중**
+  **ㅤ한국과학기술정보통신부 아마추어무선국 (6L5TNT) 운용중, '한국직장아마추어무선연합' (D80ZR) 전산관리자**
 - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
   **ㅤ한국 재난비상통신지원단(K.E.R.S) 소속중**
 
 #### 💻 What Can I Do?
 
 - 🔥 Development using Python
-  **ㅤ주 개발은 파이썬을 사용중**
 - ☁️ Cloud Computing or Server Operate
-  **ㅤ클라우드 컴퓨팅, 또는 서버 제작,개발,운용중**
 - ⚡️ Circuit Design and Development Using Electronic Engineering
-  **ㅤ전자공학을 활용한 전자회로 설계 및 개발중**
 
 ### 📚 Projects
 
@@ -49,7 +46,7 @@
 | ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency   초단파를 활용한 전대륙 교신 성공 및 AWARD흭득                                                   | RSOW   |
 | ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide   전 세계 26개국과의 QSO기록 달성 및 AWARD 흭득                                                       | Me     |
 | ✅**Suseo Youth Maker Contest (2022)**         | After advancing to the finals, he won the Encouragement Award (Yonsei University, Korea I7 Representative Award)  최종본선 진출후 장려상 수상(연세대학교 I7단장상)) | KRONOS |
-| ⛏️**Korea Code Fair** (2022~)                | Korea Code Fair (formerly Information Olympiad) has successfully advanced to the finals and is preparing for the finals..   한국코드페어 본선 결과 대기중..      | KRONOS |
+| ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
 
 
 
