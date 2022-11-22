@@ -88,6 +88,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkairos-hk&count_bg=%2379C83D&title_bg=%23555555&icon=googlecardboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="http://www.github.com/kairos-hk"><img src="https://activity-graph.herokuapp.com/graph?username=kairos-hk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dongyoung0912)](https://solved.ac/dongyoung0912)
+
 ![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true&theme=radical)
 </div>
