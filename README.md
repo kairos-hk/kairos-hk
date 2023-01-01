@@ -32,7 +32,7 @@
 | ✅**IOT Home Project** (2021)          | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Piㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me                   |
 | ✅**Beach Info Service** (2022)         | Development of real-time beach safety information guidance system  실시간 해변 안전 정보 안내시스템 개발                                             | KRONOS               |
 | ✅**Flood Protection Vehicle Navigation** (2022)         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API  홍수 발생 데이터와 Tmap API를 결합한 홍수 방지 차량 네비게이션                            | KRONOS               |
-
+| ✅**AI Air Clearner V.2** (2022)           | Development of Smart Artificial Intelligence Air Purifier Software and Prototype(Update)ㅤ스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발(업데이트)              | Me                   |
 
 
 
