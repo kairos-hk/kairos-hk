@@ -46,7 +46,7 @@
 | ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
-<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://www.cloudwards.net/wp-content/uploads/2021/02/Notion-logo.png"/></a>
+<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://user-images.githubusercontent.com/83718994/210532590-49609ffc-0775-4864-8173-9445114373e5.png"/></a>
 
 ### 📚 Contest
 
