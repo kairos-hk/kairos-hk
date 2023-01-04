@@ -6,20 +6,29 @@
 #### 🧑 Who I Am
 
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
-  **ㅤ프로그래밍, 모의해킹, 전자공학, 통신공학을 공부중**
-- 👕 A member of the "KRONOS" team
-  **ㅤKronos팀 소속중**
-- 📡 Amateur radio operator (6L5TNT) and 'Korea Radio Station Of Worker' group radio station (D80ZR) manager.
-  **ㅤ한국과학기술정보통신부 아마추어무선국 (6L5TNT) 운용중, RSOW 연합회 (D80ZR) 전산관리자**
+  **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
+- 📡 Korea Ministry of Science and ICT ‘Radio Station Of Workers’ (D80ZR) Chairman and Computer Manager
+  **ㅤ한국과학기술정보통신부 ‘Radio Station Of Workers’ (D80ZR) 이사 및 전산관리자**
 - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
   **ㅤ한국 재난비상통신지원단(K.E.R.S) 소속중**
 
-#### 💻 What Can I Do?
+#### 🛠  Skil & Stacks
 
+🔥Hard Skills : Skills required for the programming
+☁️Soft Skills : interpersonal skills
+⚡️Tool Skills : Specific Tool & Program that can be handled directly
+<!--
 - 🔥 Development using Python
 - ☁️ Cloud Computing or Server Operate
 - ⚡️ Circuit Design and Development Using Electronic Engineering
+-->
 
+| Hard Skills | Soft Skills | Tool Skills |
+| --- | --- | --- |
+| Python | leadership | BurpSuite |
+| C++ | Cooperation | John the Ripper |
+| HTML , CSS | patience | Wireshark |
+| Javascript | responsibility |  |
 ### 📚 Projects
 
 ✅ = Finished Project
@@ -27,14 +36,15 @@
 
 | Project Name                              | Description                                                                                                                                                   | Developer(s)         |
 | :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
-| ✅**AI Air Clearner** (2020)           | Development of Smart Artificial Intelligence Air Purifier Software and Prototypeㅤ스마트 공기청정 시스템의 소프트웨어 및 프로토타입 설계 및 개발              | Me                   |
-| ✅**Meteorological Instrument** (2020) | Development of Meteorological Instruments sponsored by the Arduino Research Societyㅤ연구회의 후원을 통한 기상관측기 설계 및 개발                             | Me                   |
-| ✅**IOT Home Project** (2021)          | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Piㅤ리눅스 서버와 라즈베피아이 등을 활용한 IOT스마트 홈서버 구축 및 실제 시스템 구현 | Me                   |
-| ✅**Beach Info Service** (2022)         | Development of real-time beach safety information guidance system  실시간 해변 안전 정보 안내시스템 개발                                             | KRONOS               |
-| ✅**Flood Protection Vehicle Navigation** (2022)         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API  홍수 발생 데이터와 Tmap API를 결합한 홍수 방지 차량 네비게이션                            | KRONOS               |
-| ✅**Meteorological Instrument V.2** (2022) | Development of Meteorological Instruments sponsored by the Arduino Research Societyㅤ연구회의 후원을 통한 기상관측기 설계 및 개발, 기존 회로 분석결과를 바탕으로 저전력, 고성능으로 V.2 제작  | Me                   |
+| ✅**AI Air Clearner**         | Development of Smart Artificial Intelligence Air Purifier Software and Prototype        | Me                   |
+| ✅**Meteorological Instrument** | Development of Meteorological Instruments sponsored by the Arduino Research Society              | Me                   |
+| ✅**IOT Home Project**       | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Pi | Me                   |
+| ✅**Beach Info Service**      | Development of real-time beach safety information guidance system                                        | KRONOS               |
+| ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
+| ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
 
-
+More Project Info : 
+<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://super.so/icon/dark/arrow-down-right.svg"/></a>
 
 ### 📚 Contest
 
@@ -43,9 +53,9 @@
 
 | Contest Name                                          | Awards                                                                                                                                                               | Team   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency   초단파를 활용한 전대륙 교신 성공 및 AWARD흭득                                                   | Me   |
-| ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide   전 세계 26개국과의 QSO기록 달성 및 AWARD 흭득                                                       | RSOW     |
-| ✅**Suseo Youth Maker Contest** (2022)         | After advancing to the finals, he won the Encouragement Award (Yonsei University, Korea I7 Representative Award)  최종본선 진출후 장려상 수상(연세대학교 I7단장상)) | KRONOS |
+| ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency                                              | Me   |
+| ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide                                                     | RSOW     |
+| ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
 
 
@@ -78,16 +88,10 @@
 <h3 align="center">ㅤ</h3>
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-  <a href="https://kalilinux.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blog&logoColor=white&link=https://kalilinux.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/dong0_0912/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dong0_0912/"/></a>&nbsp
-  <a href="https://portfolio.kairos-hk.xyz"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=Portfolio&logoColor=white&link=https://portfolio.kairos-hk.xyz"/></a>&nbsp
+  <a href="https://kairoshk.notion.site/Kairos-Security-Programming-6f123472de8c426caf0aef1783357e3c"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=Portfolio&logoColor=white&link=https://kairoshk.notion.site/Kairos-Security-Programming-6f123472de8c426caf0aef1783357e3c"/></a>
 </p>
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkairos-hk&count_bg=%2379C83D&title_bg=%23555555&icon=googlecardboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="http://www.github.com/kairos-hk"><img src="https://activity-graph.herokuapp.com/graph?username=kairos-hk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-![kairos-hk's github stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&show_icons=true&theme=radical)
-</div>
