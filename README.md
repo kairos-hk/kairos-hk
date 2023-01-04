@@ -14,9 +14,9 @@
 
 #### 🛠  Skil & Stacks
 
-🔥Hard Skills : Skills required for the programming
-☁️Soft Skills : interpersonal skills
-⚡️Tool Skills : Specific Tool & Program that can be handled directly
+- 🔥Hard Skills : Skills required for the programming
+- ☁️Soft Skills : interpersonal skills
+- ⚡️Tool Skills : Specific Tool & Program that can be handled directly
 <!--
 - 🔥 Development using Python
 - ☁️ Cloud Computing or Server Operate
@@ -29,6 +29,8 @@
 | C++ | Cooperation | John the Ripper |
 | HTML , CSS | patience | Wireshark |
 | Javascript | responsibility |  |
+
+
 ### 📚 Projects
 
 ✅ = Finished Project
@@ -43,8 +45,8 @@
 | ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
 | ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
 
-More Project Info : 
-<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://super.so/icon/dark/arrow-down-right.svg"/></a>
+<span style='color: red'><h3>↓ More Project Info ↓</p></span> 
+<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://www.cloudwards.net/wp-content/uploads/2021/02/Notion-logo.png"/></a>
 
 ### 📚 Contest
 
