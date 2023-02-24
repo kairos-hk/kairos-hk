@@ -7,10 +7,10 @@
 
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
   **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
-- 📡 Korea Ministry of Science and ICT ‘Radio Station Of Workers’ (D80ZR) Chairman and Computer Manager
-  **ㅤ한국과학기술정보통신부 ‘Radio Station Of Workers’ (D80ZR) 이사 및 전산관리자**
+- 📡 Korea Ministry of Science and ICT ‘Korea Electronics Radio Telecommunication Research Society’ (E.R.T.R.S) Chairman and Computer Manager
+  **ㅤ한국과학기술정보통신부 ‘한국전자전파통신연구회’ (E.R.T.R.S) 이사 및 전산관리자**
 - 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S)
-  **ㅤ한국 재난비상통신지원단(K.E.R.S) 소속중**
+  **ㅤ한국 재난비상통신지원단(K.E.R.S) **
 
 #### 🛠  Skil & Stacks
 
