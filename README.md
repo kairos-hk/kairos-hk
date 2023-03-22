@@ -76,6 +76,7 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/Bootstrapt-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=ESPHome&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>
