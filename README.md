@@ -69,18 +69,25 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=#0FAAFF"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
   <br>
   <br>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Bootstrapt-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Adafruit-000000?style=flat&logo=Adafruit&logoColor=white"/></a>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Server Fault-E7282D?style=flat&logo=Server Fault&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
   <br>
   <br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
