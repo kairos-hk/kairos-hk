@@ -55,8 +55,6 @@
 
 | Contest Name                                          | Awards                                                                                                                                                               | Team   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| ✅**QRZ World Continents Award** (2022)        | Successful communication with all continents using vhf frequency                                              | Me   |
-| ✅**QRZ World Radio Friendship Award** (2022) | Achieving successful QSO records with 26 countries worldwide                                                     | RSOW     |
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
 
