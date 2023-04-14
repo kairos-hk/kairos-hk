@@ -45,7 +45,7 @@
 | ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
 | ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
 | ⛏️**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | GBSW |
-| ⛏️**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | GBSW |
+| ⛏️**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
 
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
