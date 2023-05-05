@@ -76,10 +76,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
   <br>
   <br>
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Bootstrapt-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>
