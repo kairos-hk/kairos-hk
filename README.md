@@ -61,6 +61,10 @@
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
 
+### 📚 Security Activity
+| Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
+| :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| Korea Internet Post Office Online Site Vulnerability | KVE-2023-0307 | Site Parameter Tampering Vulnerability |
 
 
 <div align="center">
