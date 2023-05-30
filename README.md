@@ -7,9 +7,7 @@
 
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
   **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
-- 📡 Korea Ministry of Science and ICT ‘Korea Electronics Radio Telecommunication Research Society’ (E.R.T.R.S) Computer Manager
-  **ㅤ한국과학기술정보통신부 ‘한국전자전파통신연구회’ (E.R.T.R.S) 전산관리자**
-- 💼 The KARL Emergency Radio Communication Support Corps (K.E.R.S) 
+- 📡 The KARL Emergency Radio Communication Support Corps (K.E.R.S) 
   **한국 재난비상통신지원단(K.E.R.S)**
 
 #### 🛠  Skil & Stacks
@@ -26,9 +24,9 @@
 | Hard Skills | Soft Skills | Tool Skills |
 | --- | --- | --- |
 | Python | leadership | BurpSuite |
-| C++ | Cooperation | John the Ripper |
+| Next.js | Cooperation | John the Ripper |
 | HTML , CSS | patience | Wireshark |
-| Javascript | responsibility |  |
+| JS,TS | responsibility |  |
 
 
 ### 📚 Projects
