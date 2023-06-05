@@ -8,7 +8,7 @@
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
   **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
 - 📡 The KARL Emergency Radio Communication Support Corps (K.E.R.S) 
-  **한국 재난비상통신지원단(K.E.R.S)**
+  **한국 재난통신지원단(K.E.R.S) 소속**
 
 #### 🛠  Skil & Stacks
 
@@ -23,10 +23,10 @@
 
 | Hard Skills | Soft Skills | Tool Skills |
 | --- | --- | --- |
-| Python | leadership | BurpSuite |
+| Python, C, C++ | leadership | BurpSuite |
 | Next.js | Cooperation | John the Ripper |
-| HTML , CSS | patience | Wireshark |
-| JS,TS | responsibility |  |
+| HTML,Css,Js| patience | Wireshark |
+| Node.js, mongo.db | responsibility | Postman |
 
 
 ### 📚 Projects
