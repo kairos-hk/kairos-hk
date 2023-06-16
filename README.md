@@ -62,7 +62,7 @@
 ### 📚 Security Activity
 | Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Tampering Vulnerability |
+| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerability |
 
 
 <div align="center">
