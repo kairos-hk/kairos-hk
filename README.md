@@ -26,7 +26,7 @@
 | Python, C, C++ | leadership | BurpSuite |
 | Next.js | Cooperation | John the Ripper |
 | HTML,Css,Js| patience | Wireshark |
-| Node.js, mongo.db | responsibility | Postman |
+| Typescript, mongo.db | responsibility | Postman |
 
 
 ### 📚 Projects
