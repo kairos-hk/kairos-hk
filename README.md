@@ -47,7 +47,7 @@
 
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
-<a href="https://kairoshk.notion.site/edd1dbf010e8450f9d03216eb0a422b0?v=27e1f6ff6f1f4c2bac2474bd00852624"><img src="https://user-images.githubusercontent.com/83718994/210532590-49609ffc-0775-4864-8173-9445114373e5.png"/></a>
+<a href="https://www.notion.so/kairos-hk/470c1f958aba4d4cb96cffc16f85245a?v=ed37687162494f89b7465295a678f54a&pvs=4"><img src="https://user-images.githubusercontent.com/83718994/210532590-49609ffc-0775-4864-8173-9445114373e5.png"/></a>
 
 ### 📚 Contest
 
