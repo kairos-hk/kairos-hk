@@ -58,6 +58,7 @@
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
+| ✅**2023 AppJam Hackathon** (2023)            | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
 
 ### 📚 Security Activity
 | Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
