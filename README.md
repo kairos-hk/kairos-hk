@@ -23,9 +23,9 @@
 
 | Hard Skills | Soft Skills | Tool Skills |
 | --- | --- | --- |
-| Python, C, C++ | leadership | BurpSuite |
+| Python, C++ | leadership | BurpSuite |
 | Next.js | Cooperation | John the Ripper |
-| HTML,Css,Js| patience | Wireshark |
+| Flask, php| patience | Wireshark |
 | Typescript, mongo.db | responsibility | Postman |
 
 
@@ -58,7 +58,9 @@
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
-| ✅**2023 AppJam Hackathon** (2023)            | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
+| ✅**2023 AppJam Hackathon** (2023)            | Won the 2023 AppJam hackathon   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
+| ✅**2023 ICT Assistive Technology** (2023)      | Won the 2023 ICT Assistive Technology Device Contest (2nd Prize)   2023 ICT 장애인 보조공학기기 공모전 최우수상    | Snoo.py |
+| ✅**2023 Korea CANSAT Competition** (2023)            | Won the 2023 Korea CANSAT Competition (Korea Aerospace Research Institute Director’s Award)   2023 Korea Kaist 캔위성 경연대회 장려상    | Snoo.py |
 
 ### 📚 Security Activity
 | Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
