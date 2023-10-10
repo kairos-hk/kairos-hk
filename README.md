@@ -23,10 +23,11 @@
 
 | Hard Skills | Soft Skills | Tool Skills |
 | --- | --- | --- |
-| Python, C++ | leadership | BurpSuite |
-| Next.js | Cooperation | John the Ripper |
+| Python, C++, Go | leadership | BurpSuite |
+| Next.js, DevOps | Cooperation | John the Ripper |
 | Flask, php| patience | Wireshark |
 | Typescript, mongo.db | responsibility | Postman |
+| Tensorflow, Pandas | challenger | Nmap, SQLmap |
 
 
 ### 📚 Projects
