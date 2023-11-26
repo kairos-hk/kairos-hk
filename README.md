@@ -43,8 +43,8 @@
 | ✅**Beach Info Service**      | Development of real-time beach safety information guidance system                                        | KRONOS               |
 | ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
 | ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
-| ⛏️**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
-| ⛏️**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
+| ✅**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
+| ✅**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
 
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
@@ -59,9 +59,17 @@
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
 | ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
+| ✅**GBSW Idea Bank Competition** (2022)     | Won the 2023 GBSW Idea Bank Competition (1st) GBSW 아이디어뱅크 공모전(1위)     | Snoo.py |
 | ✅**2023 AppJam Hackathon** (2023)            | Won the 2023 AppJam hackathon   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
 | ✅**2023 ICT Assistive Technology** (2023)      | Won the 2023 ICT Assistive Technology Device Contest (2nd Prize)   2023 ICT 장애인 보조공학기기 공모전 최우수상    | Snoo.py |
 | ✅**2023 Korea CANSAT Competition** (2023)            | Won the 2023 Korea CANSAT Competition (Korea Aerospace Research Institute Director’s Award)   2023 Korea Kaist 캔위성 경연대회 장려상    | Snoo.py |
+| ✅**Suseo Youth Maker Contest** (2023)        | Won the Grand Prize Award (2nd Prize) 청소년 메이커 경진대회 최우수상  | Snoo.py |
+| ✅**National Student Design Competition** (2023)     |  Won the High School Gold Award Winner(3nd Prize) 전국학생설계경진대회 금상 | Snoo.py |
+| ✅**I&D Project Competition** (2023)     |  Won the Gyeongbuk Office of Education I&D Project Competition 경북교육청 I&D 프로젝트 경진 대화 장려상| Snoo.py |
+| ✅**GBSW Startup Competition** (2023)    | Won the GBSW Startup Competition (1nd Prize) GBSW 창업 경진대회 최우수상(1위)  | Snoo.py |
+| ✅**Hyundai AutoEver WhiterHacker Competition** (2023)    | Won the Hyundai AutoEver WhiterHacker Competition (3nd Prize) GBSW 현대 정보보안 경진대회(3위)  | Me |
+| ✅**SW-AI Creative Convergence Hackatone** (2023)     |  Won the SW-AI Creative Convergence Competition(1nd Prize) 경북교육청 SW-AI 해커톤(1위) | Snoo.py |
+
 
 ### 📚 Security Activity
 | Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
