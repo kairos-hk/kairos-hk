@@ -1,33 +1,18 @@
-<h1 align='center'> "Programming can change the world!" </p>
-
-<h3 align='center'> I am a high school student studying programming and security in Korea. </p>
-<h3 align='center'> 프로그래밍과 보안을 공부하는 한국의 고등학생입니다. </p>
+<h3 align='center'> I am a high school student studying Programming and Cyber Security in Korea. </p>
+<h3 align='center'> 보안 제품 개발자를 목표로 프로그래밍과 정보 보안을 공부하는 한국의 고등학생입니다. </p>
 
 #### 🧑 Who I Am
 
-- 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
-  **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
-- 📡 The KARL Emergency Radio Communication Support Corps (K.E.R.S) 
-  **한국 재난통신지원단(K.E.R.S) 소속**
+- 📖 Studying programming, Cyber Security, electronic engineering
+- **프로그래밍, 정보보안, 전자공학 공부중..**
+- 📡  Representative of the 12th policy supporters of the Ministry of Science and ICT of the Republic of Korea
+- **과학기술정보통신부 정책서포터즈 12기 대표**  
 
-#### 🛠  Skil & Stacks
-
-- 🔥Hard Skills : Skills required for the programming
-- ☁️Soft Skills : interpersonal skills
-- ⚡️Tool Skills : Specific Tool & Program that can be handled directly
-<!--
-- 🔥 Development using Python
-- ☁️ Cloud Computing or Server Operate
+#### 🛠  Skill
+- 🔥 Security product development, Web Hacking, Pwnable, Crypto
+- ⛏️ Web, AI(DL, ML), Application Development
+- ☁️ Cloud Computing, DevSecOps
 - ⚡️ Circuit Design and Development Using Electronic Engineering
--->
-
-| Hard Skills | Soft Skills | Tool Skills |
-| --- | --- | --- |
-| Python, C++, Go | leadership | BurpSuite |
-| Next.js, DevOps | Cooperation | John the Ripper |
-| Flask, php| patience | Wireshark |
-| Typescript, mongo.db | responsibility | Postman |
-| Tensorflow, Pandas | challenger | Nmap, SQLmap |
 
 
 ### 📚 Projects
@@ -45,7 +30,8 @@
 | ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
 | ✅**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
 | ✅**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
-
+| ⛏️**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
+| ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
 <a href="https://www.notion.so/kairos-hk/470c1f958aba4d4cb96cffc16f85245a?v=ed37687162494f89b7465295a678f54a&pvs=4"><img src="https://user-images.githubusercontent.com/83718994/210532590-49609ffc-0775-4864-8173-9445114373e5.png"/></a>
@@ -62,74 +48,29 @@
 | ✅**GBSW Idea Bank Competition** (2022)     | Won the 2023 GBSW Idea Bank Competition (1st) GBSW 아이디어뱅크 공모전(1위)     | Snoo.py |
 | ✅**2023 AppJam Hackathon** (2023)            | Won the 2023 AppJam hackathon   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
 | ✅**2023 ICT Assistive Technology** (2023)      | Won the 2023 ICT Assistive Technology Device Contest (2nd Prize)   2023 ICT 장애인 보조공학기기 공모전 최우수상    | Snoo.py |
-| ✅**2023 Korea CANSAT Competition** (2023)            | Won the 2023 Korea CANSAT Competition (Korea Aerospace Research Institute Director’s Award)   2023 Korea Kaist 캔위성 경연대회 장려상    | Snoo.py |
+| ✅**2023 Korea CANSAT Competition** (2023)            | Won the 2023 Korea CANSAT Competition (Korea Aerospace Research Institute Director’s Award)   2023 Korea Kaist 캔위성 경연대회 항공우주연구원장상  | Snoo.py |
 | ✅**Suseo Youth Maker Contest** (2023)        | Won the Grand Prize Award (2nd Prize) 청소년 메이커 경진대회 최우수상  | Snoo.py |
-| ✅**National Student Design Competition** (2023)     |  Won the High School Gold Award Winner(3nd Prize) 전국학생설계경진대회 금상 | Snoo.py |
-| ✅**I&D Project Competition** (2023)     |  Won the Gyeongbuk Office of Education I&D Project Competition 경북교육청 I&D 프로젝트 경진 대화 장려상| Snoo.py |
-| ✅**GBSW Startup Competition** (2023)    | Won the GBSW Startup Competition (1nd Prize) GBSW 창업 경진대회 최우수상(1위)  | Snoo.py |
-| ✅**Hyundai AutoEver WhiterHacker Competition** (2023)    | Won the Hyundai AutoEver WhiterHacker Competition (3nd Prize) GBSW 현대 정보보안 경진대회(3위)  | Me |
-| ✅**SW-AI Creative Convergence Hackatone** (2023)     |  Won the SW-AI Creative Convergence Competition(1nd Prize) 경북교육청 SW-AI 해커톤(1위) | Snoo.py |
-
+| ✅**National Student Design Competition** (2023)     |  Won the National Student Design Competition High School Gold Award Winner(3nd Prize) 전국학생설계경진대회 금상 | Snoo.py |
+| ✅**I&D Project Competition** (2023)     |  Won the Gyeongbuk Office of Education I&D Project Competition 경북교육청 I&D 프로젝트 경진 대회 장려상| Snoo.py |
+| ✅**GBSW Startup Competition** (2023)    | Won the GBSW Startup Competition (1st Prize) GBSW 창업 경진대회 최우수상(1위)  | Snoo.py |
+| ✅**Meet-Up Startup Competition** (2023)    | Won the Meet-Up Startup Competition 밋업 창업 경진대회 => 싱가포르 해외 연수  | Snoo.py |
+| ✅**2023 National AI-Frontier Competition** (2023)    | Won the 2023 National AI-Frontier Competition(3rd Prize + AWS Prize) 전국 AI-Frontier 경진대회 우수상(3위 + AWS 특별상)  | Snoo.py |
+| ✅**Hyundai AutoEver WhiterHacker Competition** (2023)    | Won the Hyundai AutoEver WhiterHacker Competition (3nd Prize) 현대 정보보안 경진대회 우수상(3위)  | Me |
+| ✅**SW-AI Creative Convergence Hackatone** (2023)     |  Won the SW-AI Creative Convergence Competition(1st Prize) 경북교육청 SW-AI 해커톤 대상(1위 교육감상) | Snoo.py |
+| ✅**GBSW 3C Talent Ideal** (2024)     |  Won the GBSW 3C Talent Ideal 경북소프트웨어고 3C 인재상 선발 | Me |
+| ✅**GBSW Portfolio Competition** (2024)     |  Won the GBSW Portfolio Competition(1st Prize) 경북소프트웨어고 포트폴리오 경진대회 금상(1위) | Me |
+| ✅**GBSW Project Competition** (2024)     |  Won the GBSW Project Competition(1st Prize) 경북소프트웨어고 프로젝트 경진대회 금상(1위) | Me |
+| ✅**GBSW SW-Go Hackathon** (2024)     |  Won the GBSW SW-Go Hackathon(2nd Prize) 경북소프트웨어고 SW-Go 해커톤(2위 최우수상) | Me |
+| ✅**Gyeongbuk Skills Competition_Cyber ​​Security** (2024)     |  Won the Gyeongbuk Skills Competition Cyber ​​Security Bronze Medal(3rd Prize) 2024 경북기능경기대회 사이버보안 동메달(3위) | Me |
 
 ### 📚 Security Activity
-| Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
+| Security Activity                                          | CVE/KVE/INFO                                                                                                                                                           | Explanation   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerability |
-
-
-<div align="center">
-
-<h3 align="center">ㅤ</h3>
-<h3 align="center">🛠 Teck Stack 🛠</h3>
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=#0FAAFF"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Bootstrapt-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=ESPHome&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Adafruit-000000?style=flat&logo=Adafruit&logoColor=white"/></a>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Server Fault-E7282D?style=flat&logo=Server Fault&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
-
-</p>
-
-<h3 align="center">ㅤ</h3>
-<h3 align="center"> 🎳 About Me 🎳 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/dong0_0912/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dong0_0912/"/></a>&nbsp
-  <a href="https://kairoshk.notion.site/Kairos-Security-Programming-6f123472de8c426caf0aef1783357e3c"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=Portfolio&logoColor=white&link=https://kairoshk.notion.site/Kairos-Security-Programming-6f123472de8c426caf0aef1783357e3c"/></a>
-</p>
-
-<br>
+| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerability 
+| 사이버가디언즈 정보보안 인재 양성 사업 수료 (2023) | - | - |
+| Hyundai-AutoEver 화이트해커 양성 프로그램 수료 및 수상 (2023) | - | - |
+| 경북소프트웨어고 RCE 해킹부(CCA 소속) 차장 및 동아리원 교육 (2023 ~ Now) | - | - |
+| 차세대 보안리더 양성프로그램 WHS 1기 수료 (2024) | - | - |
 
 
 
