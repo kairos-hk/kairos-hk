@@ -5,6 +5,8 @@
 
 - 📖 Studying programming, Cyber Security, electronic engineering
 - **프로그래밍, 정보보안, 전자공학 공부중..**
+- 📚 Kitri White Hat School (Pre-BoB) graduate student
+- **차세대 보안리더 양성 프로그램 WHS 1기 수료생**  
 - 📡  Representative of the 12th policy supporters of the Ministry of Science and ICT of the Republic of Korea
 - **과학기술정보통신부 정책서포터즈 12기 대표**  
 
