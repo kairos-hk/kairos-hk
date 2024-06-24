@@ -6,7 +6,9 @@
 - 📖 Studying programming, Cyber Security, electronic engineering
 - **프로그래밍, 정보보안, 전자공학 공부중..**
 - 📚 Kitri White Hat School (Pre-BoB) graduate student
-- **차세대 보안리더 양성 프로그램 WHS 1기 수료생**  
+- **차세대 보안리더 양성 프로그램 WHS 1기 수료생**
+- 📚 Kitri Best of the Best (BoB) student
+- **차세대 보안리더 양성 프로그램 BoB 13기 보안제품개발 트랙 교육생**  
 - 📡  Representative of the 12th policy supporters of the Ministry of Science and ICT of the Republic of Korea
 - **과학기술정보통신부 정책서포터즈 12기 대표**  
 
@@ -33,7 +35,7 @@
 | ✅**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
 | ✅**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
 | ✅**ML based Qshing Attack Detective App**         |Development of ML based Qshing Attack Detective Application | Me |
-| ⛏️**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
+| ✅**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
 | ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
 
 <span style='color: red'><h3>↓ More Project Info ↓</p></span> 
@@ -69,10 +71,11 @@
 ### 📚 Security Activity
 | Security Activity                                          | CVE/KVE/INFO                                                                                                                                                           | Explanation   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerability 
 | 사이버가디언즈 정보보안 인재 양성 사업 수료 (2023) | - | - |
 | Hyundai-AutoEver 화이트해커 양성 프로그램 수료 및 수상 (2023) | - | - |
 | 경북소프트웨어고 RCE 해킹부(CCA 소속) 차장 및 동아리원 교육 (2023 ~ Now) | - | - |
 | 차세대 보안리더 양성프로그램 WHS 1기 수료 (2024) | - | - |
 | 전국사이버보안동아리연합(CCA) 제3회 세미나 발표 => ML기술을 활용한 Malicious URL Attack 탐지 기술 연구 (2024) | - | - |
 | 경북교육청 SW-AI 연구 프로젝트 : 스마트워치 포렌식 자동화 기술 연구 (2024) | - | - |
+| 한국스마트미디어학회 KCI 학술지 등재 : Qshing Attack 탐지를 위한 ML 기술 (2024) | - | - |
+| 차세대 보안리더 양성프로그램 BoB 13기 보안제품개발 트랙 교육생 (2024) | - | - |
