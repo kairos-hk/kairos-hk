@@ -38,8 +38,6 @@
 | ✅**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
 | ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
 
-<span style='color: red'><h3>↓ More Project Info ↓</p></span> 
-<a href="https://www.notion.so/kairos-hk/470c1f958aba4d4cb96cffc16f85245a?v=ed37687162494f89b7465295a678f54a&pvs=4"><img src="https://user-images.githubusercontent.com/83718994/210532590-49609ffc-0775-4864-8173-9445114373e5.png"/></a>
 
 ### 📚 Contest
 
