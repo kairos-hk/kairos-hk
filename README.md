@@ -1,5 +1,5 @@
 <h3 align='center'> I am a high school student studying Programming and Cyber Security in Korea. </p>
-<h3 align='center'> 보안 제품 개발자를 목표로 프로그래밍과 정보 보안을 공부하는 한국의 고등학생입니다. </p>
+<h3 align='center'> 보안 솔루션 연구원을 목표로 정보 보안을 공부하는 한국의 고등학생입니다. </p>
 
 #### 🧑 Who I Am
 
@@ -38,6 +38,22 @@
 | ✅**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
 | ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
 
+### 📚 Security Activity
+| Security Activity                                              | Explanation   |
+| :----------------------------------------------------| :----- |
+| ✅ **사이버가디언즈 정보보안 인재 양성 사업 수료 (2023)** | - |
+| ✅ **Hyundai-AutoEver 화이트해커 양성 프로그램 수료 및 수상 (2023)** | - |
+| ✅ **경북소프트웨어고 RCE 해킹부(CCA 소속) 차장 및 동아리원 교육 (2023 ~ Now)** | - |
+| ✅ **제 28회 해킹캠프 수료 (2024)** | - |
+| ✅ **차세대 보안리더 양성프로그램 WHS 1기 수료 (2024)** | - |
+| ✅ **전국사이버보안동아리연합(CCA) 제3회 세미나 발표 => ML기술을 활용한 Malicious URL Attack 탐지 기술 연구 (2024)** | - |
+| ✅ **ㅍ경북교육청 SW-AI 연구 프로젝트 : 스마트워치 포렌식 자동화 기술 연구 (2024)** | - |
+| ✅ **한국스마트미디어학회 KCI 학술지 등재 : Qshing Attack 탐지를 위한 ML 기술 (2024)** | - |
+| ⛏️ **차세대 보안리더 양성프로그램 BoB 13기 보안제품개발 트랙 교육생 (2024)** | - |
+| ⛏️ **양자 내성 암호 NTRU를 기반으로 한 네트워크 TLS 접목 연구 (2024)** | - |
+| ⛏️ **한국형 암호 ARIA & LEA 알고리즘을 기반으로 한 인공위성 MCU 최적화 및 경량화 연구 (2024)** | - |
+| ⛏️ **국방부 암호분석경진대회 고등부 참여중... Side Channel Attack 연구 (2024)** | - |
+
 
 ### 📚 Contest
 
@@ -66,15 +82,3 @@
 | ✅**GBSW SW-Go Hackathon** (2024)     |  Won the GBSW SW-Go Hackathon(2nd Prize) 경북소프트웨어고 SW-Go 해커톤(2위 최우수상) | Me |
 | ✅**Gyeongbuk Skills Competition_Cyber ​​Security** (2024)     |  Won the Gyeongbuk Skills Competition Cyber ​​Security Bronze Medal(3rd Prize) 2024 경북기능경기대회 사이버보안 동메달(3위) | Me |
 
-### 📚 Security Activity
-| Security Activity                                          | CVE/KVE/INFO                                                                                                                                                           | Explanation   |
-| :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| 사이버가디언즈 정보보안 인재 양성 사업 수료 (2023) | - | - |
-| Hyundai-AutoEver 화이트해커 양성 프로그램 수료 및 수상 (2023) | - | - |
-| 경북소프트웨어고 RCE 해킹부(CCA 소속) 차장 및 동아리원 교육 (2023 ~ Now) | - | - |
-| 제 28회 해킹캠프 수료 (2024) | - | - |
-| 차세대 보안리더 양성프로그램 WHS 1기 수료 (2024) | - | - |
-| 전국사이버보안동아리연합(CCA) 제3회 세미나 발표 => ML기술을 활용한 Malicious URL Attack 탐지 기술 연구 (2024) | - | - |
-| 경북교육청 SW-AI 연구 프로젝트 : 스마트워치 포렌식 자동화 기술 연구 (2024) | - | - |
-| 한국스마트미디어학회 KCI 학술지 등재 : Qshing Attack 탐지를 위한 ML 기술 (2024) | - | - |
-| 차세대 보안리더 양성프로그램 BoB 13기 보안제품개발 트랙 교육생 (2024) | - | - |
