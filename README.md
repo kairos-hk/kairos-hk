@@ -47,13 +47,14 @@
 | ✅ **제 28회 해킹캠프 수료 (2024)** | - |
 | ✅ **차세대 보안리더 양성프로그램 WHS 1기 수료 (2024)** | - |
 | ✅ **전국사이버보안동아리연합(CCA) 제3회 세미나 발표 => ML기술을 활용한 Malicious URL Attack 탐지 기술 연구 (2024)** | - |
-| ✅ **ㅍ경북교육청 SW-AI 연구 프로젝트 : 스마트워치 포렌식 자동화 기술 연구 (2024)** | - |
+| ✅ **경북교육청 SW-AI 연구 프로젝트 : 스마트워치 포렌식 자동화 기술 연구 (2024)** | - |
 | ✅ **한국스마트미디어학회 KCI 학술지 등재 : Qshing Attack 탐지를 위한 ML 기술 (2024)** | - |
 | ⛏️ **차세대 보안리더 양성프로그램 BoB 13기 보안제품개발 트랙 교육생 (2024)** | - |
-| ⛏️ **양자 내성 암호 NTRU를 기반으로 한 네트워크 TLS 접목 연구 (2024)** | - |
+| ✅ **양자 내성 암호 NTRU를 기반으로 한 네트워크 TLS 접목 연구 (2024)** | - |
+| ✅ **BCA CTF 해킹방어대회 고등부 세계 7위, 국내 1위 (2024)** | - |
 | ⛏️ **한국형 암호 ARIA & LEA 알고리즘을 기반으로 한 인공위성 MCU 최적화 및 경량화 연구 (2024)** | - |
 | ⛏️ **국방부 암호분석경진대회 고등부 참여중... Side Channel Attack 연구 (2024)** | - |
-
+| ⛏️ **Web3 블록체인 기반 보안 기술 관련 연구 및 SCIE 국제 학술지 투고 중... (2024)** | - |
 
 ### 📚 Contest
 
@@ -81,4 +82,5 @@
 | ✅**GBSW Project Competition** (2024)     |  Won the GBSW Project Competition(1st Prize) 경북소프트웨어고 프로젝트 경진대회 금상(1위) | Me |
 | ✅**GBSW SW-Go Hackathon** (2024)     |  Won the GBSW SW-Go Hackathon(2nd Prize) 경북소프트웨어고 SW-Go 해커톤(2위 최우수상) | Me |
 | ✅**Gyeongbuk Skills Competition_Cyber ​​Security** (2024)     |  Won the Gyeongbuk Skills Competition Cyber ​​Security Bronze Medal(3rd Prize) 2024 경북기능경기대회 사이버보안 동메달(3위) | Me |
-
+| ✅**BCA CTF Hacking Competition** (2024)     |  BCA CTF Hacking Defense Competition High School Division ranked 7th in the world and 1st in Korea 2024 BCA CTF 해킹방어대회 고등부 세계 7위, 국내 1위 | Snoo.py |
+| ✅**GBSW Capston Project Competition** (2024)     | Won the GBSW Capston Project Competition(2nd Prize) 2024 경북소프트웨어고 캡스톤 프로젝트 경진대회(2위)  | Snoo.py |
