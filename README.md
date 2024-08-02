@@ -84,3 +84,5 @@
 | ✅**Gyeongbuk Skills Competition_Cyber ​​Security** (2024)     |  Won the Gyeongbuk Skills Competition Cyber ​​Security Bronze Medal(3rd Prize) 2024 경북기능경기대회 사이버보안 동메달(3위) | Me |
 | ✅**BCA CTF Hacking Competition** (2024)     |  BCA CTF Hacking Defense Competition High School Division ranked 7th in the world and 1st in Korea 2024 BCA CTF 해킹방어대회 고등부 세계 7위, 국내 1위 | Snoo.py |
 | ✅**GBSW Capston Project Competition** (2024)     | Won the GBSW Capston Project Competition(2nd Prize) 2024 경북소프트웨어고 캡스톤 프로젝트 경진대회(2위)  | Snoo.py |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk)](https://github.com/ryo-ma/github-profile-trophy)
