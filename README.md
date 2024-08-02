@@ -19,6 +19,8 @@
 - ⚡️ Circuit Design and Development Using Electronic Engineering
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk&rank=-C,-B&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 📚 Projects
 
 ✅ = Finished Project
@@ -85,5 +87,4 @@
 | ✅**BCA CTF Hacking Competition** (2024)     |  BCA CTF Hacking Defense Competition High School Division ranked 7th in the world and 1st in Korea 2024 BCA CTF 해킹방어대회 고등부 세계 7위, 국내 1위 | Snoo.py |
 | ✅**GBSW Capston Project Competition** (2024)     | Won the GBSW Capston Project Competition(2nd Prize) 2024 경북소프트웨어고 캡스톤 프로젝트 경진대회(2위)  | Snoo.py |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&hide=contribs,prs)
+
