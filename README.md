@@ -86,3 +86,4 @@
 | ✅**GBSW Capston Project Competition** (2024)     | Won the GBSW Capston Project Competition(2nd Prize) 2024 경북소프트웨어고 캡스톤 프로젝트 경진대회(2위)  | Snoo.py |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos-hk&hide=contribs,prs)
