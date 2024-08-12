@@ -21,24 +21,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kairos-hk&rank=-C,-B&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📚 Projects
 
-✅ = Finished Project
-⛏️ = Working on
-
-| Project Name                              | Description                                                                                                                                                   | Developer(s)         |
-| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
-| ✅**AI Air Clearner**         | Development of Smart Artificial Intelligence Air Purifier Software and Prototype        | Me                   |
-| ✅**Meteorological Instrument** | Development of Meteorological Instruments sponsored by the Arduino Research Society              | Me                   |
-| ✅**IOT Home Project**       | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Pi | Me                   |
-| ✅**Beach Info Service**      | Development of real-time beach safety information guidance system                                        | KRONOS               |
-| ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
-| ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
-| ✅**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
-| ✅**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
-| ✅**ML based Qshing Attack Detective App**         |Development of ML based Qshing Attack Detective Application | Me |
-| ✅**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
-| ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
 
 ### 📚 Security Activity
 | Security Activity                                              | Explanation   |
@@ -88,3 +71,21 @@
 | ✅**GBSW Capston Project Competition** (2024)     | Won the GBSW Capston Project Competition(2nd Prize) 2024 경북소프트웨어고 캡스톤 프로젝트 경진대회(2위)  | Snoo.py |
 
 
+### 📚 Projects
+
+✅ = Finished Project
+⛏️ = Working on
+
+| Project Name                              | Description                                                                                                                                                   | Developer(s)         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
+| ✅**AI Air Clearner**         | Development of Smart Artificial Intelligence Air Purifier Software and Prototype        | Me                   |
+| ✅**Meteorological Instrument** | Development of Meteorological Instruments sponsored by the Arduino Research Society              | Me                   |
+| ✅**IOT Home Project**       | Development of IOT Smart Home Deplyment with Linux Server and Raspberry Pi | Me                   |
+| ✅**Beach Info Service**      | Development of real-time beach safety information guidance system                                        | KRONOS               |
+| ✅**Flood Protection Vehicle Navigation**         | Flood prevention vehicle navigation combining flood occurrence data and Tmap API | KRONOS               |
+| ✅**Meteorological Instrument V.2** | Development of Meteorological Instruments sponsored by the Arduino Research Society, V.2 production with low power and high performance based on the results of existing circuit analysis  | Me                   |
+| ✅**Dormitory Laundry Service**         | Real-time management hardware design, development and site development of washing machines and dryers in school dormitories | Snoo.py |
+| ✅**AI self-driving vehicle development**         |Development of AI logistics transportation self-driving vehicle using machine learning | Snoo.py |
+| ✅**ML based Qshing Attack Detective App**         |Development of ML based Qshing Attack Detective Application | Me |
+| ✅**PQC Encrypt Messenger**         |Development of a quantum-resistant password-based secure chat application | Me |
+| ⛏️**WearOS forensics research**         |Development of WearOS-based smartwatch forensic automation system | Me |
